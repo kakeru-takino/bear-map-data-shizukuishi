@@ -10412,6 +10412,45 @@
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>令和8年8月31日(黒川21地割)</name>
+        <description><![CDATA[出没区分: 01 目撃<br>名前: 令和8年8月31日<br>出没時間: 8:25<br>成獣/幼獣: 成獣<br>頭数: １頭<br>発生地域: 黒川21地割<br>緯度: 39.62153512<br>経度: 141.1896315<br>説明: 乙部中学校と盛岡聴覚支援学校の中間地点付近で成獣１頭を目撃。北東に向かって移動していった。]]></description>
+        <styleUrl>#icon-1759-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="出没区分">
+            <value>01 目撃</value>
+          </Data>
+          <Data name="名前">
+            <value>令和8年8月31日</value>
+          </Data>
+          <Data name="出没時間">
+            <value>8:25</value>
+          </Data>
+          <Data name="成獣/幼獣">
+            <value>成獣</value>
+          </Data>
+          <Data name="頭数">
+            <value>１頭</value>
+          </Data>
+          <Data name="発生地域">
+            <value>黒川21地割</value>
+          </Data>
+          <Data name="緯度">
+            <value>39.62153512</value>
+          </Data>
+          <Data name="経度">
+            <value>141.1896315</value>
+          </Data>
+          <Data name="説明">
+            <value>乙部中学校と盛岡聴覚支援学校の中間地点付近で成獣１頭を目撃。北東に向かって移動していった。</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            141.1896315,39.62153512,0
+          </coordinates>
+        </Point>
+      </Placemark>
     </Folder>
   </Document>
 </kml>
